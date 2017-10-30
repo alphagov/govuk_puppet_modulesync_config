@@ -1,0 +1,7 @@
+---
+git_base: 'git@github.com:'
+namespace: alphagov
+branch: modulesync
+message: "Update from alphagov/govuk_puppet_modulesync_config"
+...
+# vim: syntax=yaml
